@@ -19,22 +19,24 @@ Re-dated 2026-11-07 19:18Z (Boss TODO HEALTH 19:16:20Z named this repo STALE 76 
   Vault's own page waits for the owner screen: the Vault reaches people through the Hub's Vault section on the ONE profile page
   (dark until V1.G, whose next sitting is TUE 11-10), not through this site.
   OWNER Vault · ADDED 11-04 · DUE — (no work) · STATUS NOTHING TO DO · SOURCE Boss 10-06
+- PUBLIC VAULT PAGE, a DARK draft (Boss RULING, BOARD 2026-11-07T19:20:23Z: YES). 'Sign in' = a link to Windy Accounts, never a Vault login.
+  The owner screen is not live, so the page says 'coming'. Never 'zero-knowledge'. The words come from the ENC-V1 one-pager's Hub-read
+  text (windy-contracts #311). Legal reads the claims, then Boss stamps. The deploy is its own Pages GO, no earlier than the TUE 11-10
+  V1.G sitting, so the page never promises a screen nobody can use. Done means: the draft PR merged on Legal's read + Boss's stamp
+  (the deploy is a separate item, after its GO).
+  OWNER Vault · ADDED 11-07 · DUE the PR by MON 11-09 18:00Z; deploy not before TUE 11-10 · STATUS DRAFTING (PR today) · SOURCE Boss 2026-11-07T19:20:23Z
 
 ## Waiting on
-- Boss: is a public Vault page wanted now? Its "Sign in" would be a link to Windy Accounts (one-account plan, 11-02), never a Vault
-  login. Asked 11-04; the 11-06 nudge was MISSED (my miss); re-asked 2026-11-07 on the BOARD with this PR.
-  OWNER Boss (answer) · ADDED 11-04 · DUE an answer by MON 11-09 · STATUS ASKED AGAIN 11-07 · SOURCE Vault ask, BOARD 2026-11-04
+- Nothing: Boss answered the page question (BOARD 2026-11-07T19:20:23Z), item above.
 
 ## Later
-- A Vault page: what the Vault is, in honest kind 1 custodial words ("Windy could open them, just as it can open the secrets in your
-  Vault"; never "zero-knowledge"); no promise of a date or feature that is not live. If Boss says yes: a DARK draft PR (not deployed)
-  within 1 working day of the yes; its deploy is its own Pages GO.
-  OWNER Vault · ADDED 11-04 · DUE 1 working day after Boss's yes · STATUS WAITING on Boss · SOURCE Vault ask, BOARD 2026-11-04
+- Nothing. Every promised item is dated above.
 
 ## Branches
-Every branch on the remote (checked 2026-11-07 19:18Z, git ls-remote): main; docs/todo-20261107 (this PR).
+Every branch on the remote (checked 2026-11-07 19:21Z, git ls-remote): main; docs/todo-page-yes (this PR); site/vault-page-draft (the draft page PR, next).
 
 ## Done
 Last 30 days:
+- 2026-11-07 #3 docs: TODO.md for 11-07 (WE ARE LIVE, the standard; merge 7f6e5626)
 - 2026-11-04 #2 docs: TODO.md re-dated for continuous work (merge 93af324e)
 - 2026-11-04 #1 docs: TODO.md, the one to-do list (merge 1fc77a40)
