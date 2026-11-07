@@ -24,7 +24,12 @@ Re-dated 2026-11-07 19:18Z (Boss TODO HEALTH 19:16:20Z named this repo STALE 76 
   text (windy-contracts #311). Legal reads the claims, then Boss stamps. The deploy is its own Pages GO, no earlier than the TUE 11-10
   V1.G sitting, so the page never promises a screen nobody can use. Done means: the draft PR merged on Legal's read + Boss's stamp
   (the deploy is a separate item, after its GO).
-  OWNER Vault · ADDED 11-07 · DUE the PR by MON 11-09 18:00Z; deploy not before TUE 11-10 · STATUS DRAFTING (PR today) · SOURCE Boss 2026-11-07T19:20:23Z
+  OWNER Vault · ADDED 11-07 · DUE the PR by MON 11-09 18:00Z · STATUS DONE: #5 MERGED DARK 2026-11-07 19:36:31Z (Legal read, Boss stamp) · SOURCE Boss 2026-11-07T19:20:23Z
+- DEPLOY the public Vault page (#5's index.html) to Cloudflare Pages: its OWN Pages GO by sha, no earlier than the TUE 11-10 V1.G sitting
+  (Boss 19:20:23Z), with BEFORE/AFTER lines and a one-command rollback. Nothing serves it today (no Pages project or Git hook; checked
+  after the merge). Before the GO: a Pages project + domain named by Boss/Cloud, and the page re-read against what is live that day.
+  Done means: the AFTER line on the BOARD.
+  OWNER Vault · ADDED 11-07 · DUE its own slot, not before TUE 11-10 · STATUS WAITING (GO + a project/domain) · SOURCE Boss 2026-11-07T19:20:23Z
 
 ## Waiting on
 - Nothing: Boss answered the page question (BOARD 2026-11-07T19:20:23Z), item above.
@@ -33,10 +38,12 @@ Re-dated 2026-11-07 19:18Z (Boss TODO HEALTH 19:16:20Z named this repo STALE 76 
 - Nothing. Every promised item is dated above.
 
 ## Branches
-Every branch on the remote (checked 2026-11-07 19:21Z, git ls-remote): main; docs/todo-page-yes (this PR); site/vault-page-draft (the draft page PR, next).
+Every branch on the remote (checked 2026-11-07 19:37Z, git ls-remote): main; docs/todo-page-merged (this PR).
 
 ## Done
 Last 30 days:
+- 2026-11-07 #5 site: DARK draft of the public Vault page (merge 1640f5f9; not deployed)
+- 2026-11-07 #4 docs: TODO.md: Boss's YES to the page (merge a87d22bd)
 - 2026-11-07 #3 docs: TODO.md for 11-07 (WE ARE LIVE, the standard; merge 7f6e5626)
 - 2026-11-04 #2 docs: TODO.md re-dated for continuous work (merge 93af324e)
 - 2026-11-04 #1 docs: TODO.md, the one to-do list (merge 1fc77a40)
